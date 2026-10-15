@@ -5,7 +5,8 @@
 作业8-A
 这是 merge-test 分支的内容。
 feature-merge的内容
+<<<<<<< HEAD
 冲突已解决
-作业12的版本
+作业12 冲突解决
 
 
