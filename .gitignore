@@ -6,7 +6,11 @@ secret.txt
 
 # 编译产物
 build/
+temp/
 
 # 编辑器配置
 .vscode/
 .idea/
+#其他
+important.txt
+password.txt
