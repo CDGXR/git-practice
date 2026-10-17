@@ -1,0 +1,12 @@
+# 密码和密钥
+secret.txt
+
+# 日志文件
+*.log
+
+# 编译产物
+build/
+
+# 编辑器配置
+.vscode/
+.idea/
