@@ -31,6 +31,23 @@ cd git-practice
 ls
 ```
 
+## 补课练习
+
+- [x] Actions 最小例子跑通
+- [ ] Markdown 折叠块
+- [ ] .gitignore 补救
+
+<details>
+<summary>点击展开：补课记录</summary>
+
+今天补了三块内容：
+
+1. Actions 最小例子
+2. Markdown 折叠块
+3. .gitignore 补救流程
+
+</details>
+
 ## 学习记录
 
 <details>
