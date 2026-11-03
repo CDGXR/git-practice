@@ -1,0 +1,16 @@
+name: Minimal Demo
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉代码
+        uses: actions/checkout@v4
+      - name: 自己写命令
+        run: echo "这是我的第一条命令"
+      - name: 看看仓库文件
+        run: ls
